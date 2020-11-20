@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "551002968840",
+    "firebase_url": "https://uts-stefanuskristianto.firebaseio.com",
+    "project_id": "uts-stefanuskristianto",
+    "storage_bucket": "uts-stefanuskristianto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551002968840:android:f5a3e437a833c29b0192bd",
+        "android_client_info": {
+          "package_name": "com.example.uts_amub_ti7a_1711500045_stefanuskristianto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551002968840-f6q35p46tus25vkdnaht826716jkddrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXphcSs8gem0nyHBKwUd17ExGMtN1uMYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551002968840-f6q35p46tus25vkdnaht826716jkddrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
